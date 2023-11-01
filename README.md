@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JwHarshitha
 - 👀 I’m interested in ... Python
-- 🌱 I’m currently learning ... de respos
-- 💞️ I’m looking to collaborate on ... DE
+- 🌱 I’m currently learning ... depth Coding
+- 💞️ I’m looking to collaborate on ... DS
 - 📫 How to reach me ...Email
 
 <!---
