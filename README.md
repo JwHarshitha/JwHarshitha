@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JwHarshitha
-- 👀 I’m interested in ... Python
+- 👀 I’m interested in ... Python, SQL, Databricks
 - 🌱 I’m currently learning ... depth Coding
 - 💞️ I’m looking to collaborate on ... DS
-- 📫 How to reach me ...Email
+- 📫 How to reach me ...Email@harshithasiddagattu@gmail.com
 
 <!---
 JwHarshitha/JwHarshitha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
